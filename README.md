@@ -114,16 +114,6 @@ Java, JDBC, MySQL
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-[![Shreya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyakalshetti156-blip&theme=tokyo-night)](https://github.com/shreyakalshetti156-blip)
-
-</p>
-
----
-
 # 🌟 Goals
 
 - 🚀 Become a Java Full Stack Developer
